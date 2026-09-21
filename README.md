@@ -168,7 +168,7 @@ Image processing pipeline to detect and restore damaged/missing regions in CD im
   <a href="https://www.kaggle.com/" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="https://https://mohamednasser-one.vercel.app/" target="_blank">
+  <a href="https://https://https://mohamednasser-one.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
